@@ -1,6 +1,6 @@
 package GroupLessons;
 
-public class Agi {
+public class Agni {
     public static void main(String[] args) {
         System.out.println("learning");
     }
