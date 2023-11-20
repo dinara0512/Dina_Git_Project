@@ -67,6 +67,7 @@ public class Array {
        int [] b = {1,3,4,5};
         System.out.println(Arrays.equals(a,b));
         System.out.println("  ");
+        // JOINS
         String [] newArr ={"a", "b", "c"};
         System.out.println(String.join("<>",newArr));
         System.out.println(String.join("----",newArr));
